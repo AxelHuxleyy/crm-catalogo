@@ -4,7 +4,8 @@ Hola, este es un proyecto personal el cual eh elaborado, el proyecto consta de 3
 
 Demo de aplicación: 
 CRM: https://ventas-huxley.vercel.app/login/[id]?id=5fbab662e6b6404818803618 
-user: mundovape@gmail.com password: hola123 
+user: mundovape@gmail.com 
+password: hola123 
 Catalogo: https://mundovape-axelhuxley.vercel.app/inicio
 
 Lo que se busca en es te proyecto es un CRM el cual te permita, gestión de productos, gestión de personal, gestión de pedidos, gestión de ventas, obtener estadísticas, manejo de distinto tipos de usuarios. Se busca implementar consultas en tiempo real
